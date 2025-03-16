@@ -1,4 +1,4 @@
-# EstruturasDeDados
+# Estruturas De Dados
 Repositório para estudo da matéria estruturas de dados, contendo: listas encadeadas, listas ordenadas e árvores binárias em Python
 
 # Objetivos 
@@ -17,3 +17,5 @@ Repositório para estudo da matéria estruturas de dados, contendo: listas encad
 # Instruções de Uso
 - Listas encadeadas podem ser utilizadas para cenários ou mapas
 - Listas ordenadas podem classificar as missões ou tarefas com base na dificuldade ou recompensa.
+
+# Exemplos de Uso em Desenvolvimento de Jogos

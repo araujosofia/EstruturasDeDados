@@ -1,9 +1,12 @@
 # Estruturas De Dados
-Repositório para estudo da matéria estruturas de dados, contendo: listas encadeadas, listas ordenadas e árvores binárias em Python
+Este repositório foi criado para estudo e implementação de Listas Encadeadas, Listas Ordenadas e Árvores Binárias utilizando a linguagem Python. Ele contém exemplos de implementação dessas estruturas de dados, bem como instruções de uso e referências complementares para aprofundamento.
 
 # Objetivos 
-- Desenvolver soluções otimizadas utilizando estruturas de dados apropriadas para cada caso de uso.
-- Entender como diferentes estruturas de dados funcionam na prática.
+- Compreender o funcionamento das listas encadeadas simples e duplamente encadeadas.
+- Implementar operações básicas: inserção, remoção, busca e atualização.
+- Criar uma lista ordenada e entender sua eficiência.
+- Explorar o conceito de árvore binária, suas operações e aplicações.
+- Relacionar as estruturas de dados com aplicações reais, como desenvolvimento de jogos.
 
 # Orientações de estudos
 - Explore os diretórios para acessar códigos de exemplo.
@@ -19,3 +22,10 @@ Repositório para estudo da matéria estruturas de dados, contendo: listas encad
 - Listas ordenadas podem classificar as missões ou tarefas com base na dificuldade ou recompensa.
 
 # Exemplos de Uso em Desenvolvimento de Jogos
+- Listas Encadeadas: Inserção no início e fim, remoção e busca.
+- Listas Ordenadas: Inserção mantém a ordem crescente automaticamente.
+- Árvores Binárias: Inserção, busca e travessia em ordem.
+
+# Recursos e Referências 
+
+  

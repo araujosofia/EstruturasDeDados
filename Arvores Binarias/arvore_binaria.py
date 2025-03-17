@@ -1,23 +1,23 @@
 # ArvoresBinarias/arvore_binaria.py
-
+ 
 class NodeArvore:
     """
     Classe Node para a árvore binária.
     Cada nó possui um valor e referências para os nós esquerdo e direito.
     """
-    def _init_(self, valor: int):
+    def __init__(self, valor: int):
         self.valor = valor
         self.esquerda = None
         self.direita = None
 
-    def _repr_(self):
+    def __repr__(self):
         return f"NodeArvore({self.valor})"
 
 class ArvoreBinaria:
     """
     Implementação de uma Árvore Binária de Busca (BST).
     """
-    def _init_(self):
+    def __init__(self):
         self.raiz = None
 
     def inserir(self, valor: int) -> None:
@@ -46,7 +46,7 @@ class ArvoreBinaria:
             self._em_ordem_rec(node.direita)
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     # Exemplo de uso:
     arvore = ArvoreBinaria()
     for valor in [50, 30, 70, 20, 40, 60, 80]:

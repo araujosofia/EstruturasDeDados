@@ -27,5 +27,8 @@ Este repositório foi criado para estudo e implementação de Listas Encadeadas,
 - Árvores Binárias: Inserção, busca e travessia em ordem.
 
 # Recursos e Referências 
-
+- https://medium.com/@emersoneduardo.airesnunes/listas-encadeadas-utilizando-python-7526f982b4ae
+- https://docs.python.org/pt-br/dev/howto/sorting.html
+- https://aprendendo-computacao-com-python.readthedocs.io/en/latest/capitulo_20.html
+- https://www.youtube.com/watch?v=WKIBRyEzBGk
   

@@ -1,5 +1,4 @@
-# ArvoresBinarias/arvore_binaria.py
- 
+
 class NodeArvore:
     """
     Classe Node para a árvore binária.
